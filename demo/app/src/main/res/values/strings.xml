@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="wenhou">最近过得如何呢？</string>
+    <string name="study">我喜欢Android！</string>
+    <string name="next">下一张</string>
+    <string name="start_stop">start/stop</string>
+</resources>
